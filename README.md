@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/jdavis20395/Parts%20Unlimited/_apis/build/status/OS88992.pipe?branchName=master)](https://dev.azure.com/jdavis20395/Parts%20Unlimited/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
